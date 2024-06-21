@@ -1,172 +1,182 @@
 [
   {
-    "name": "Yeshwantpur",
-    "description": "Industrial hub",
-    "coordinates": [77.550695, 13.023824]
-  },
-  {
-    "name": "Kempegowda Majestic",
-    "description": "Historical landmark",
-    "coordinates": [77.572898, 12.977912]
-  },
-  {
-    "name": "Indiranagar",
-    "description": "Hip nightlife",
-    "coordinates": [77.640467, 12.973291]
-  },
-  {
-    "name": "Whitefield",
-    "description": "Tech hub",
+    "name": "Tech hub",
+    "description": "Whitefield",
+    "address": "Whitefield, Bangalore, Karnataka",
+    "entries": "3800",
+    "exits": "3900",
+    "code": "WHIT",
     "coordinates": [77.750493, 12.9698]
   },
   {
-    "name": "Electronic City",
-    "description": "IT corridor",
-    "coordinates": [77.667072, 12.845586]
+    "name": "Historical landmark",
+    "description": "Kempegowda Majestic",
+    "address": "Majestic, Bangalore, Karnataka",
+    "entries": "7000",
+    "exits": "7200",
+    "code": "KEMP",
+    "coordinates": [77.572898, 12.977912]
   },
   {
-    "name": "Jayanagar",
-    "description": "Residential charm",
+    "name": "Hip nightlife",
+    "description": "Indiranagar",
+    "address": "Indiranagar, Bangalore, Karnataka",
+    "entries": "4500",
+    "exits": "4600",
+    "code": "INDI",
+    "coordinates": [77.640467, 12.973291]
+  },
+  {
+    "name": "Residential charm",
+    "description": "Jayanagar",
+    "address": "Jayanagar, Bangalore, Karnataka",
+    "entries": "4800",
+    "exits": "4900",
+    "code": "JAYA",
     "coordinates": [77.581482, 12.930788]
   },
   {
-    "name": "Malleswaram",
-    "description": "Cultural hotspot",
-    "coordinates": [77.570397, 13.007707]
+    "name": "Shopping paradise",
+    "description": "Commercial Street",
+    "address": "Commercial Street, Bangalore, Karnataka",
+    "entries": "5200",
+    "exits": "5300",
+    "code": "COMM",
+    "coordinates": [77.605956, 12.982168]
   },
   {
-    "name": "KR Puram",
-    "description": "Gateway to East",
-    "coordinates": [77.675966, 13.008574]
+    "name": "Cultural hub",
+    "description": "Ravindra Kalakshetra",
+    "address": "J.C. Road, Bangalore, Karnataka",
+    "entries": "3200",
+    "exits": "3300",
+    "code": "RAVI",
+    "coordinates": [77.574812, 12.967095]
   },
   {
-    "name": "BTM Layout",
-    "description": "Youthful vibe",
-    "coordinates": [77.610383, 12.916575]
+    "name": "Green oasis",
+    "description": "Lalbagh Botanical Garden",
+    "address": "Lalbagh, Bangalore, Karnataka",
+    "entries": "4500",
+    "exits": "4600",
+    "code": "LALB",
+    "coordinates": [77.583854, 12.950742]
   },
   {
-    "name": "Hebbal",
-    "description": "Lake view",
-    "coordinates": [77.589463, 13.035858]
+    "name": "Educational hub",
+    "description": "Koramangala",
+    "address": "Koramangala, Bangalore, Karnataka",
+    "entries": "6200",
+    "exits": "6300",
+    "code": "KORA",
+    "coordinates": [77.622827, 12.935772]
   },
   {
-    "name": "Silk Board",
-    "description": "Traffic junction",
-    "coordinates": [77.642632, 12.916255]
+    "name": "Tech park",
+    "description": "Electronic City",
+    "address": "Electronic City, Bangalore, Karnataka",
+    "entries": "5200",
+    "exits": "5100",
+    "code": "ELEC",
+    "coordinates": [77.667072, 12.845586]
   },
   {
-    "name": "Marathahalli",
-    "description": "IT suburb",
-    "coordinates": [77.699236, 12.956114]
+    "name": "Historical fort",
+    "description": "Bangalore Fort",
+    "address": "Bangalore Fort, Bangalore, Karnataka",
+    "entries": "3800",
+    "exits": "3700",
+    "code": "FORT",
+    "coordinates": [77.576139, 12.962953]
   },
   {
-    "name": "Bellandur",
-    "description": "Lakefront living",
-    "coordinates": [77.676626, 12.927441]
-  },
-  {
-    "name": "Banashankari",
-    "description": "Devotional hub",
-    "coordinates": [77.573044, 12.925453]
-  },
-  {
-    "name": "Shivajinagar",
-    "description": "Central market",
+    "name": "Art district",
+    "description": "Shivajinagar",
+    "address": "Shivajinagar, Bangalore, Karnataka",
+    "entries": "5200",
+    "exits": "5300",
+    "code": "SHIV",
     "coordinates": [77.600367, 12.983883]
   },
   {
-    "name": "Basavanagudi",
-    "description": "Traditional vibes",
-    "coordinates": [77.571769, 12.942594]
-  },
-  {
-    "name": "Hosur Road",
-    "description": "Commercial strip",
-    "coordinates": [77.610857, 12.885361]
-  },
-  {
-    "name": "HBR Layout",
-    "description": "Greenery",
-    "coordinates": [77.632836, 13.029647]
-  },
-  {
-    "name": "Kalyan Nagar",
-    "description": "Cosmopolitan",
-    "coordinates": [77.640708, 13.025042]
-  },
-  {
-    "name": "JP Nagar",
-    "description": "Peaceful living",
-    "coordinates": [77.59456, 12.906491]
-  },
-  {
-    "name": "Electronic City Phase 2",
-    "description": "Industrial expansion",
-    "coordinates": [77.678573, 12.837712]
-  },
-  {
-    "name": "Rajajinagar",
-    "description": "Business district",
-    "coordinates": [77.552707, 12.988233]
-  },
-  {
-    "name": "Kumaraswamy Layout",
-    "description": "Quiet residential",
-    "coordinates": [77.555191, 12.906023]
-  },
-  {
-    "name": "Cubbon Park",
-    "description": "Green lung",
-    "coordinates": [77.594527, 12.975023]
-  },
-  {
-    "name": "Kaggadasapura",
-    "description": "Emerging locality",
-    "coordinates": [77.685459, 12.981829]
-  },
-  {
-    "name": "Hennur",
-    "description": "Upcoming area",
-    "coordinates": [77.649791, 13.032941]
-  },
-  {
-    "name": "Ulsoor",
-    "description": "Lake promenade",
+    "name": "Lake view",
+    "description": "Ulsoor",
+    "address": "Ulsoor, Bangalore, Karnataka",
+    "entries": "3800",
+    "exits": "3900",
+    "code": "ULSO",
     "coordinates": [77.626523, 12.982202]
   },
   {
-    "name": "Kengeri",
-    "description": "Suburban retreat",
-    "coordinates": [77.471032, 12.919914]
+    "name": "Shopping hub",
+    "description": "Brigade Road",
+    "address": "Brigade Road, Bangalore, Karnataka",
+    "entries": "4500",
+    "exits": "4600",
+    "code": "BRIG",
+    "coordinates": [77.607518, 12.974944]
   },
   {
-    "name": "Vijayanagar",
-    "description": "Community feel",
-    "coordinates": [77.534308, 12.971889]
+    "name": "Lively market",
+    "description": "Malleswaram",
+    "address": "Malleswaram, Bangalore, Karnataka",
+    "entries": "4200",
+    "exits": "4300",
+    "code": "MALL",
+    "coordinates": [77.570397, 13.007707]
   },
   {
-    "name": "HSR Layout",
-    "description": "Startup hub",
-    "coordinates": [77.646205, 12.912146]
+    "name": "Scenic view",
+    "description": "Sankey Tank",
+    "address": "Sankey Tank, Bangalore, Karnataka",
+    "entries": "3200",
+    "exits": "3100",
+    "code": "SANK",
+    "coordinates": [77.581961, 13.006072]
   },
   {
-    "name": "Nagarbhavi",
-    "description": "Educational hub",
-    "coordinates": [77.512176, 12.963119]
+    "name": "IT hub",
+    "description": "Manyata Tech Park",
+    "address": "Manyata Tech Park, Bangalore, Karnataka",
+    "entries": "5500",
+    "exits": "5600",
+    "code": "MANY",
+    "coordinates": [77.635171, 13.047223]
   },
   {
-    "name": "Basaveshwaranagar",
-    "description": "Locality pride",
-    "coordinates": [77.538682, 12.992205]
+    "name": "Heritage temple",
+    "description": "Bull Temple",
+    "address": "Bull Temple, Bangalore, Karnataka",
+    "entries": "4600",
+    "exits": "4700",
+    "code": "BULL",
+    "coordinates": [77.570426, 12.940968]
   },
   {
-    "name": "Domlur",
-    "description": "Corporate hub",
-    "coordinates": [77.635783, 12.962933]
+    "name": "Nature retreat",
+    "description": "Bannerghatta National Park",
+    "address": "Bannerghatta Road, Bangalore, Karnataka",
+    "entries": "3800",
+    "exits": "3900",
+    "code": "BANN",
+    "coordinates": [77.577187, 12.800603]
   },
   {
-    "name": "Bellary Road",
-    "description": "Connectivity",
-    "coordinates": [77.594932, 13.000214]
+    "name": "Tech corridor",
+    "description": "Outer Ring Road",
+    "address": "Outer Ring Road, Bangalore, Karnataka",
+    "entries": "6500",
+    "exits": "6600",
+    "code": "RING",
+    "coordinates": [77.697982, 12.934077]
+  },
+  {
+    "name": "Innovative zone",
+    "description": "Manyata Embassy Business Park",
+    "address": "Nagawara, Bangalore, Karnataka",
+    "entries": "5800",
+    "exits": "5900",
+    "code": "EMBA",
+    "coordinates": [77.620553, 13.048518]
   }
 ]
