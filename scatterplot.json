@@ -1,0 +1,274 @@
+[
+  {
+    "name": "Yeshwantpur",
+    "code": "YESH",
+    "address": "Yeshwantpur, Bangalore, Karnataka",
+    "entries": "5000",
+    "exits": "4800",
+    "coordinates": [77.550695, 13.023824]
+  },
+  {
+    "name": "Kempegowda Majestic",
+    "code": "KEMP",
+    "address": "Majestic, Bangalore, Karnataka",
+    "entries": "7000",
+    "exits": "7200",
+    "coordinates": [77.572898, 12.977912]
+  },
+  {
+    "name": "Indiranagar",
+    "code": "INDI",
+    "address": "Indiranagar, Bangalore, Karnataka",
+    "entries": "4500",
+    "exits": "4600",
+    "coordinates": [77.640467, 12.973291]
+  },
+  {
+    "name": "Whitefield",
+    "code": "WHIT",
+    "address": "Whitefield, Bangalore, Karnataka",
+    "entries": "3800",
+    "exits": "3900",
+    "coordinates": [77.750493, 12.9698]
+  },
+  {
+    "name": "Electronic City",
+    "code": "ELEC",
+    "address": "Electronic City, Bangalore, Karnataka",
+    "entries": "5200",
+    "exits": "5100",
+    "coordinates": [77.667072, 12.845586]
+  },
+  {
+    "name": "Jayanagar",
+    "code": "JAYA",
+    "address": "Jayanagar, Bangalore, Karnataka",
+    "entries": "4800",
+    "exits": "4900",
+    "coordinates": [77.581482, 12.930788]
+  },
+  {
+    "name": "Malleswaram",
+    "code": "MALL",
+    "address": "Malleswaram, Bangalore, Karnataka",
+    "entries": "4200",
+    "exits": "4300",
+    "coordinates": [77.570397, 13.007707]
+  },
+  {
+    "name": "KR Puram",
+    "code": "KRPU",
+    "address": "KR Puram, Bangalore, Karnataka",
+    "entries": "3500",
+    "exits": "3600",
+    "coordinates": [77.675966, 13.008574]
+  },
+  {
+    "name": "BTM Layout",
+    "code": "BTML",
+    "address": "BTM Layout, Bangalore, Karnataka",
+    "entries": "5500",
+    "exits": "5400",
+    "coordinates": [77.610383, 12.916575]
+  },
+  {
+    "name": "Hebbal",
+    "code": "HEBB",
+    "address": "Hebbal, Bangalore, Karnataka",
+    "entries": "3200",
+    "exits": "3300",
+    "coordinates": [77.589463, 13.035858]
+  },
+  {
+    "name": "Silk Board",
+    "code": "SILK",
+    "address": "Silk Board, Bangalore, Karnataka",
+    "entries": "6000",
+    "exits": "6100",
+    "coordinates": [77.642632, 12.916255]
+  },
+  {
+    "name": "Marathahalli",
+    "code": "MARA",
+    "address": "Marathahalli, Bangalore, Karnataka",
+    "entries": "4300",
+    "exits": "4400",
+    "coordinates": [77.699236, 12.956114]
+  },
+  {
+    "name": "Bellandur",
+    "code": "BELL",
+    "address": "Bellandur, Bangalore, Karnataka",
+    "entries": "3800",
+    "exits": "3700",
+    "coordinates": [77.676626, 12.927441]
+  },
+  {
+    "name": "Banashankari",
+    "code": "BANA",
+    "address": "Banashankari, Bangalore, Karnataka",
+    "entries": "4100",
+    "exits": "4200",
+    "coordinates": [77.573044, 12.925453]
+  },
+  {
+    "name": "Shivajinagar",
+    "code": "SHIV",
+    "address": "Shivajinagar, Bangalore, Karnataka",
+    "entries": "5200",
+    "exits": "5300",
+    "coordinates": [77.600367, 12.983883]
+  },
+  {
+    "name": "Basavanagudi",
+    "code": "BASA",
+    "address": "Basavanagudi, Bangalore, Karnataka",
+    "entries": "3900",
+    "exits": "4000",
+    "coordinates": [77.571769, 12.942594]
+  },
+  {
+    "name": "Hosur Road",
+    "code": "HOSU",
+    "address": "Hosur Road, Bangalore, Karnataka",
+    "entries": "4800",
+    "exits": "4900",
+    "coordinates": [77.610857, 12.885361]
+  },
+  {
+    "name": "HBR Layout",
+    "code": "HBR",
+    "address": "HBR Layout, Bangalore, Karnataka",
+    "entries": "3200",
+    "exits": "3100",
+    "coordinates": [77.632836, 13.029647]
+  },
+  {
+    "name": "Kalyan Nagar",
+    "code": "KALY",
+    "address": "Kalyan Nagar, Bangalore, Karnataka",
+    "entries": "3700",
+    "exits": "3800",
+    "coordinates": [77.640708, 13.025042]
+  },
+  {
+    "name": "JP Nagar",
+    "code": "JPNA",
+    "address": "JP Nagar, Bangalore, Karnataka",
+    "entries": "4300",
+    "exits": "4400",
+    "coordinates": [77.59456, 12.906491]
+  },
+  {
+    "name": "Electronic City Phase 2",
+    "code": "ELEC2",
+    "address": "Electronic City Phase 2, Bangalore, Karnataka",
+    "entries": "3500",
+    "exits": "3600",
+    "coordinates": [77.678573, 12.837712]
+  },
+  {
+    "name": "Rajajinagar",
+    "code": "RAJA",
+    "address": "Rajajinagar, Bangalore, Karnataka",
+    "entries": "4100",
+    "exits": "4200",
+    "coordinates": [77.552707, 12.988233]
+  },
+  {
+    "name": "Kumaraswamy Layout",
+    "code": "KUMA",
+    "address": "Kumaraswamy Layout, Bangalore, Karnataka",
+    "entries": "3200",
+    "exits": "3100",
+    "coordinates": [77.555191, 12.906023]
+  },
+  {
+    "name": "Cubbon Park",
+    "code": "CUBB",
+    "address": "Cubbon Park, Bangalore, Karnataka",
+    "entries": "4200",
+    "exits": "4300",
+    "coordinates": [77.594527, 12.975023]
+  },
+  {
+    "name": "Kaggadasapura",
+    "code": "KAGG",
+    "address": "Kaggadasapura, Bangalore, Karnataka",
+    "entries": "2800",
+    "exits": "2900",
+    "coordinates": [77.685459, 12.981829]
+  },
+  {
+    "name": "Hennur",
+    "code": "HENN",
+    "address": "Hennur, Bangalore, Karnataka",
+    "entries": "3400",
+    "exits": "3500",
+    "coordinates": [77.649791, 13.032941]
+  },
+  {
+    "name": "Ulsoor",
+    "code": "ULSO",
+    "address": "Ulsoor, Bangalore, Karnataka",
+    "entries": "3800",
+    "exits": "3900",
+    "coordinates": [77.626523, 12.982202]
+  },
+  {
+    "name": "Kengeri",
+    "code": "KENG",
+    "address": "Kengeri, Bangalore, Karnataka",
+    "entries": "3000",
+    "exits": "3100",
+    "coordinates": [77.471032, 12.919914]
+  },
+  {
+    "name": "Vijayanagar",
+    "code": "VIJA",
+    "address": "Vijayanagar, Bangalore, Karnataka",
+    "entries": "3600",
+    "exits": "3700",
+    "coordinates": [77.534308, 12.971889]
+  },
+  {
+    "name": "HSR Layout",
+    "code": "HSRL",
+    "address": "HSR Layout, Bangalore, Karnataka",
+    "entries": "4600",
+    "exits": "4700",
+    "coordinates": [77.646205, 12.912146]
+  },
+  {
+    "name": "Nagarbhavi",
+    "code": "NAGA",
+    "address": "Nagarbhavi, Bangalore, Karnataka",
+    "entries": "3100",
+    "exits": "3200",
+    "coordinates": [77.512176, 12.963119]
+  },
+  {
+    "name": "Basaveshwaranagar",
+    "code": "BASV",
+    "address": "Basaveshwaranagar, Bangalore, Karnataka",
+    "entries": "3400",
+    "exits": "3300",
+    "coordinates": [77.538682, 12.992205]
+  },
+  {
+    "name": "Domlur",
+    "code": "DOML",
+    "address": "Domlur, Bangalore, Karnataka",
+    "entries": "4800",
+    "exits": "4900",
+    "coordinates": [77.635783, 12.962933]
+  },
+  {
+    "name": "Bellary Road",
+    "code": "BELR",
+    "address": "Bellary Road, Bangalore, Karnataka",
+    "entries": "4200",
+    "exits": "4300",
+    "coordinates": [77.594932, 13.000214]
+  }
+]
