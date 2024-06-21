@@ -1,0 +1,206 @@
+[
+  {
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "cases": 20000,
+    "coordinates": [77.5946, 12.9716]
+  },
+  {
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "cases": 35000,
+    "coordinates": [72.8777, 19.0760]
+  },
+  {
+    "city": "Delhi",
+    "state": "Delhi",
+    "cases": 45000,
+    "coordinates": [77.1025, 28.7041]
+  },
+  {
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "cases": 30000,
+    "coordinates": [80.2707, 13.0827]
+  },
+  {
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "cases": 25000,
+    "coordinates": [78.4867, 17.3850]
+  },
+  {
+    "city": "Pune",
+    "state": "Maharashtra",
+    "cases": 18000,
+    "coordinates": [73.8567, 18.5204]
+  },
+  {
+    "city": "Kolkata",
+    "state": "West Bengal",
+    "cases": 22000,
+    "coordinates": [88.3639, 22.5726]
+  },
+  {
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "cases": 21000,
+    "coordinates": [72.5714, 23.0225]
+  },
+  {
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "cases": 15000,
+    "coordinates": [75.7873, 26.9124]
+  },
+  {
+    "city": "Lucknow",
+    "state": "Uttar Pradesh",
+    "cases": 14000,
+    "coordinates": [80.9462, 26.8467]
+  },
+  {
+    "city": "Patna",
+    "state": "Bihar",
+    "cases": 12000,
+    "coordinates": [85.7900, 25.5941]
+  },
+  {
+    "city": "Visakhapatnam",
+    "state": "Andhra Pradesh",
+    "cases": 9000,
+    "coordinates": [83.2185, 17.6868]
+  },
+  {
+    "city": "Indore",
+    "state": "Madhya Pradesh",
+    "cases": 11000,
+    "coordinates": [75.8577, 22.7196]
+  },
+  {
+    "city": "Kochi",
+    "state": "Kerala",
+    "cases": 8000,
+    "coordinates": [76.2673, 9.9839]
+  },
+  {
+    "city": "Guwahati",
+    "state": "Assam",
+    "cases": 6000,
+    "coordinates": [91.7362, 26.1445]
+  },
+  {
+    "city": "Bhubaneswar",
+    "state": "Odisha",
+    "cases": 7000,
+    "coordinates": [85.8245, 20.2961]
+  },
+  {
+    "city": "Raipur",
+    "state": "Chhattisgarh",
+    "cases": 5000,
+    "coordinates": [81.6296, 21.2514]
+  },
+  {
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "cases": 8500,
+    "coordinates": [79.0882, 21.1458]
+  },
+  {
+    "city": "Vadodara",
+    "state": "Gujarat",
+    "cases": 7200,
+    "coordinates": [73.1812, 22.3072]
+  },
+  {
+    "city": "Thiruvananthapuram",
+    "state": "Kerala",
+    "cases": 4000,
+    "coordinates": [76.9780, 8.5241]
+  },
+  {
+    "city": "Chandigarh",
+    "state": "Chandigarh",
+    "cases": 3000,
+    "coordinates": [76.7794, 30.7333]
+  },
+  {
+    "city": "Coimbatore",
+    "state": "Tamil Nadu",
+    "cases": 5500,
+    "coordinates": [76.9562, 11.0168]
+  },
+  {
+    "city": "Goa",
+    "state": "Goa",
+    "cases": 2500,
+    "coordinates": [73.7650, 15.2993]
+  },
+  {
+    "city": "Kannur",
+    "state": "Kerala",
+    "cases": 1800,
+    "coordinates": [75.3704, 11.8745]
+  },
+  {
+    "city": "Mangalore",
+    "state": "Karnataka",
+    "cases": 2200,
+    "coordinates": [74.8554, 12.9141]
+  },
+  {
+    "city": "Trichy",
+    "state": "Tamil Nadu",
+    "cases": 3200,
+    "coordinates": [78.7047, 10.7905]
+  },
+  {
+    "city": "Udaipur",
+    "state": "Rajasthan",
+    "cases": 2100,
+    "coordinates": [73.7125, 24.5854]
+  },
+  {
+    "city": "Varanasi",
+    "state": "Uttar Pradesh",
+    "cases": 3800,
+    "coordinates": [82.9739, 25.3176]
+  },
+  {
+    "city": "Vijayawada",
+    "state": "Andhra Pradesh",
+    "cases": 4300,
+    "coordinates": [80.6348, 16.5062]
+  },
+  {
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "cases": 3200,
+    "coordinates": [77.4126, 23.2599]
+  },
+  {
+    "city": "Ranchi",
+    "state": "Jharkhand",
+    "cases": 2800,
+    "coordinates": [85.3096, 23.3441]
+  },
+  {
+    "city": "Srinagar",
+    "state": "Jammu and Kashmir",
+    "cases": 4500,
+    "coordinates": [74.7973, 34.0837]
+  },
+  {
+    "city": "Jammu",
+    "state": "Jammu and Kashmir",
+    "cases": 2000,
+    "coordinates": [74.8570, 32.7266]
+  },
+  {
+    "city": "Amritsar",
+    "state": "Punjab",
+    "cases": 3000,
+    "coordinates": [74.8765, 31.6340]
+  }
+]
