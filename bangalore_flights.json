@@ -1,0 +1,682 @@
+[
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Chennai Int'l",
+      "abbrev": "MAA",
+      "coordinates": [
+        80.180605,
+        12.990005
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Mumbai Chhatrapati Shivaji Int'l",
+      "abbrev": "BOM",
+      "coordinates": [
+        72.874968,
+        19.090351
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Delhi Indira Gandhi Int'l",
+      "abbrev": "DEL",
+      "coordinates": [
+        77.103386,
+        28.556162
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Hyderabad Rajiv Gandhi Int'l",
+      "abbrev": "HYD",
+      "coordinates": [
+        78.429799,
+        17.231002
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Kolkata Netaji Subhas Chandra Bose Int'l",
+      "abbrev": "CCU",
+      "coordinates": [
+        88.446686,
+        22.652842
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Pune Lohegaon",
+      "abbrev": "PNQ",
+      "coordinates": [
+        73.919722,
+        18.580001
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Ahmedabad Sardar Vallabhbhai Patel Int'l",
+      "abbrev": "AMD",
+      "coordinates": [
+        72.628334,
+        23.077259
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Jaipur Sanganer",
+      "abbrev": "JAI",
+      "coordinates": [
+        75.801094,
+        26.82407
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Lucknow Chaudhary Charan Singh Int'l",
+      "abbrev": "LKO",
+      "coordinates": [
+        80.884827,
+        26.760594
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Patna Jay Prakash Narayan Int'l",
+      "abbrev": "PAT",
+      "coordinates": [
+        85.088215,
+        25.591524
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Visakhapatnam",
+      "abbrev": "VTZ",
+      "coordinates": [
+        83.22341,
+        17.72152
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Indore Devi Ahilyabai Holkar Int'l",
+      "abbrev": "IDR",
+      "coordinates": [
+        75.801466,
+        22.722615
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Kochi Cochin Int'l",
+      "abbrev": "COK",
+      "coordinates": [
+        76.390181,
+        10.15179
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Guwahati Lokpriya Gopinath Bordoloi Int'l",
+      "abbrev": "GAU",
+      "coordinates": [
+        91.588997,
+        26.106085
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Bhubaneswar Biju Patnaik Int'l",
+      "abbrev": "BBI",
+      "coordinates": [
+        85.818832,
+        20.252982
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Raipur Swami Vivekananda Int'l",
+      "abbrev": "RPR",
+      "coordinates": [
+        81.738891,
+        21.180469
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Nagpur Dr. Babasaheb Ambedkar Int'l",
+      "abbrev": "NAG",
+      "coordinates": [
+        79.055916,
+        21.091459
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Vadodara",
+      "abbrev": "BDQ",
+      "coordinates": [
+        73.226158,
+        22.336845
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Thiruvananthapuram Int'l",
+      "abbrev": "TRV",
+      "coordinates": [
+        76.920551,
+        8.482122
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Chandigarh Int'l",
+      "abbrev": "IXC",
+      "coordinates": [
+        76.789587,
+        30.673701
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Coimbatore",
+      "abbrev": "CJB",
+      "coordinates": [
+        77.043701,
+        11.030006
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Goa Dabolim",
+      "abbrev": "GOI",
+      "coordinates": [
+        73.839495,
+        15.380789
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Guwahati Lokpriya Gopinath Bordoloi Int'l",
+      "abbrev": "GAU",
+      "coordinates": [
+        91.588997,
+        26.106085
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Kannur Int'l",
+      "abbrev": "CNN",
+      "coordinates": [
+        75.541884,
+        11.874477
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Mangalore",
+      "abbrev": "IXE",
+      "coordinates": [
+        74.889915,
+        12.961032
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Trichy Tiruchirapalli Int'l",
+      "abbrev": "TRZ",
+      "coordinates": [
+        78.709722,
+        10.765364
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Udaipur Maharana Pratap",
+      "abbrev": "UDR",
+      "coordinates": [
+        73.896255,
+        24.617367
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Varanasi Lal Bahadur Shastri Int'l",
+      "abbrev": "VNS",
+      "coordinates": [
+        82.855446,
+        25.452464
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Vijayawada",
+      "abbrev": "VGA",
+      "coordinates": [
+        80.798775,
+        16.521883
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Bhopal Raja Bhoj Int'l",
+      "abbrev": "BHO",
+      "coordinates": [
+        77.337325,
+        23.288097
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Ranchi Birsa Munda",
+      "abbrev": "IXR",
+      "coordinates": [
+        85.323898,
+        23.314333
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Srinagar Sheikh ul-Alam Int'l",
+      "abbrev": "SXR",
+      "coordinates": [
+        74.775828,
+        33.987129
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Jammu Satwari",
+      "abbrev": "IXJ",
+      "coordinates": [
+        74.837543,
+        32.688647
+      ]
+    }
+  },
+  {
+    "from": {
+      "type": "major",
+      "name": "Bangalore Kempegowda Int'l",
+      "abbrev": "BLR",
+      "coordinates": [
+        77.706139,
+        13.199169
+      ]
+    },
+    "to": {
+      "type": "major",
+      "name": "Amritsar Sri Guru Ram Dass Jee Int'l",
+      "abbrev": "ATQ",
+      "coordinates": [
+        74.797287,
+        31.709594
+      ]
+    }
+  }
+]
